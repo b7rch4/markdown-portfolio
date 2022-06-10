@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+### My favourite things
+
+* Liverpool Football Club ⚽
+* Good Music 🎸
+* Playing Games 🎮
+  * Football Manager 💻
+  * Cricket 22 🏏
